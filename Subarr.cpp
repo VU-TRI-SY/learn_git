@@ -111,5 +111,5 @@ int main()
     int a4=maxsub4(a,n);
     
 	cout << a1<<" "<<a2<<" "<<a3<<" "<<a4;
-	//end of my program
+	//I midofied this program
 }
